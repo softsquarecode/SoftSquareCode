@@ -6,12 +6,8 @@
 
 ## <center>↳ 𝚆𝚑𝚘 𝚊𝚖 𝙸?
 <p align="left">
-    I'm a Brazilian 🇧🇷 development student and have been working in the area for some time. <br>
-My main objective is to improve my level of English and improve my back-end skills, especially in Java. I currently work as a full-stack node.js developer and I am always willing to learn new things. 🌱 
+    I'm a Brazilian 🇧🇷 Full-stack Developer and DevOps. <br>
 </p>
-
-> I am studying my degree in the area of ​​development at Senac University,
-
 <br>
 
 ## <center> ↳   𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜:
@@ -21,7 +17,7 @@ My main objective is to improve my level of English and improve my back-end skil
 </div>
 <h4> 📍 Back-end: </h4>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=typescript,nodejs,express,php,java" />
+    <img src="https://skillicons.dev/icons?i=typescript,nodejs,express,nest,php,java" />
 </div>
 <h4> 📍 Database: </h4>
 <div align="left">
