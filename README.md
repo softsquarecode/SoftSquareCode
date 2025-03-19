@@ -15,7 +15,7 @@
 </div>
 <h4> 📍 Tools: </h4>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,arch,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,arch,docker,figma,aws,hetzner" />
 </div>
 <h4> 📍 Tests: </h4>
 <div align="left">
